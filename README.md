@@ -1,4 +1,4 @@
-Program Description:
+Program Description:  
     This Program is a game called 2048. After opening this program,
 you can play this game by using the arrow keys on your keyboard. For
 example, if you press your UP arrow key, you can move the tiles on the 
